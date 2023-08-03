@@ -1,7 +1,7 @@
 const url = ("https://" + process.env.PROJECT_DOMAIN + ".glitch.me");
 const port = 3000;
 // 修改以下参数，以使用哪吒面板。格式为：服务器地址 端口 密钥
-const nezha = "server.forvps.eu.org 5555 dfzPfEOCA3DCAVhM4s"
+const nezha = "x.x.x 2222 dfzP22222222AVhM4s"
 const express = require("express");
 const app = express();
 var exec = require("child_process").exec;
